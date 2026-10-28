@@ -1,0 +1,17 @@
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Application.dll
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Domain.dll
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Application.pdb
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\bin\Debug\net10.0\Domain.pdb
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+C:\Users\Sharifov Hojiakbar\Desktop\.NET_Exam5.3\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
